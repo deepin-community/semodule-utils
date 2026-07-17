@@ -1,3 +1,23 @@
+semodule-utils (3.8.1-1) unstable; urgency=medium
+
+  * New upstream release, just change version number
+
+ -- Russell Coker <russell@coker.com.au>  Sun, 16 Mar 2025 18:13:07 +1100
+
+semodule-utils (3.8-1) unstable; urgency=medium
+
+  * New upstream release, only the version number but I guess we must follow it
+  * Changed homepage URL
+
+ -- Russell Coker <russell@coker.com.au>  Thu, 06 Feb 2025 20:29:27 +1100
+
+semodule-utils (3.7-1) unstable; urgency=medium
+
+  * New upstream release
+  * Added new upstream signing key
+
+ -- Russell Coker <russell@coker.com.au>  Mon, 02 Sep 2024 20:55:02 +1000
+
 semodule-utils (3.5-1) unstable; urgency=medium
 
   * New upstream release
